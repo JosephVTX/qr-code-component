@@ -33,7 +33,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/JosephVTX/qr-code-component]
 - Live Site URL: [https://qr-code-component-eight-phi.vercel.app/]
 
 ## My process
